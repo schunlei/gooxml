@@ -76,6 +76,7 @@ func New() *Document {
 	d.Rels.AddRelationship("docProps/app.xml", gooxml.ExtendedPropertiesType)
 	d.Rels.AddRelationship("docProps/custom.xml", gooxml.CustomPropertiesType)
 	d.Rels.AddRelationship("word/document.xml", gooxml.OfficeDocumentType)
+	d.Rels.AddRelationship("word/comments.xml", gooxml.CommentsType)
 
 	d.Numbering = NewNumbering()
 	d.Numbering.InitializeDefault()
