@@ -8,9 +8,9 @@
 package presentation
 
 import (
-	"github.com/qifengzhang007/gooxml/drawing"
-	"github.com/qifengzhang007/gooxml/schema/soo/dml"
-	"github.com/qifengzhang007/gooxml/schema/soo/pml"
+	"github.com/schunlei/gooxml/drawing"
+	"github.com/schunlei/gooxml/schema/soo/dml"
+	"github.com/schunlei/gooxml/schema/soo/pml"
 )
 
 // Image is an image within a slide.

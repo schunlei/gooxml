@@ -10,7 +10,7 @@ package formula
 import (
 	"strconv"
 
-	"github.com/qifengzhang007/gooxml"
+	"github.com/schunlei/gooxml"
 )
 
 type Bool struct {

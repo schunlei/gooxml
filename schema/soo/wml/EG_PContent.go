@@ -13,8 +13,8 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/qifengzhang007/gooxml"
-	"github.com/qifengzhang007/gooxml/schema/soo/ofc/math"
+	"github.com/schunlei/gooxml"
+	"github.com/schunlei/gooxml/schema/soo/ofc/math"
 )
 
 type EG_PContent struct {

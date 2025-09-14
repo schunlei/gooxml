@@ -12,7 +12,7 @@ package relationships
 import (
 	"encoding/xml"
 
-	"github.com/qifengzhang007/gooxml"
+	"github.com/schunlei/gooxml"
 )
 
 type Relationships struct {

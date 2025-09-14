@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/qifengzhang007/gooxml"
+	"github.com/schunlei/gooxml"
 )
 
 type CT_SlideMasterIdList struct {

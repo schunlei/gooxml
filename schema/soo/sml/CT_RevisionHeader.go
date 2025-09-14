@@ -15,8 +15,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/qifengzhang007/gooxml"
-	"github.com/qifengzhang007/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/schunlei/gooxml"
+	"github.com/schunlei/gooxml/schema/soo/ofc/sharedTypes"
 )
 
 type CT_RevisionHeader struct {

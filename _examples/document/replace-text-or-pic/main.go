@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/qifengzhang007/gooxml/common"
-	"github.com/qifengzhang007/gooxml/document"
+	"github.com/schunlei/gooxml/common"
+	"github.com/schunlei/gooxml/document"
 )
 
 func main() {

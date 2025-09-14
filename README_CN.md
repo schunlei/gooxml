@@ -1,8 +1,8 @@
-<h4 align="center"><strong>简体中文</strong> | <a href="https://github.com/qifengzhang007/gooxml/blob/master/README.md">English</a></h4>
+<h4 align="center"><strong>简体中文</strong> | <a href="https://github.com/schunlei/gooxml/blob/master/README.md">English</a></h4>
 
 ### 本库使用说名
 
-- 1.首先特别感谢原作者提供的开源库：[github.com/carmel/gooxml ](https://github.com/qifengzhang007/gooxml)。   
+- 1.首先特别感谢原作者提供的开源库：[github.com/carmel/gooxml ](https://github.com/schunlei/gooxml)。   
   由于原始仓库不再维护，无法通过提交代码的方式修复原始仓库中存在的问题，因此我使用了原始仓库的代码，进行二次开发/修复一些可能存在的bug。
 - 2.原始包中 `99%` 的命令在本包都是相同的,只有少量的命令参数有增加，请根据报错自行修正即可.
 - 3.中文用户可以加入QQ群：129885228 ,遇到的问题我们会第一时间帮您解决.  
@@ -15,7 +15,7 @@
 
 ```code  
     // 在安装此包之前，请检查最新的标签版本号，例如 v1.0.15-alpha
-    go get  github.com/qifengzhang007/gooxml@v1.0.15-alpha
+    go get  github.com/schunlei/gooxml@v1.0.15-alpha
 ```
 
 ![gooxml](./_examples/preview.png "gooxml")
@@ -69,4 +69,4 @@
 ### 幻灯片示例
 
 - [简单文本框](./_examples/presentation/simple)    简单文本框和形状
-- [图像](https://github.com/qifengzhang007/gooxml)
+- [图像](https://github.com/schunlei/gooxml)

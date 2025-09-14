@@ -12,8 +12,8 @@ package diagram
 import (
 	"encoding/xml"
 
-	"github.com/qifengzhang007/gooxml"
-	"github.com/qifengzhang007/gooxml/schema/soo/dml"
+	"github.com/schunlei/gooxml"
+	"github.com/schunlei/gooxml/schema/soo/dml"
 )
 
 type StyleDef struct {

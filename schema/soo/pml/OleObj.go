@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"strconv"
 
-	"github.com/qifengzhang007/gooxml"
+	"github.com/schunlei/gooxml"
 )
 
 type OleObj struct {

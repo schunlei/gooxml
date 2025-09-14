@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/qifengzhang007/gooxml"
-	"github.com/qifengzhang007/gooxml/schema/soo/pkg/relationships"
+	"github.com/schunlei/gooxml"
+	"github.com/schunlei/gooxml/schema/soo/pkg/relationships"
 )
 
 // Relationships represents a .rels file.

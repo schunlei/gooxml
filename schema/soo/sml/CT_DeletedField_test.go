@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/qifengzhang007/gooxml/schema/soo/sml"
+	"github.com/schunlei/gooxml/schema/soo/sml"
 )
 
 func TestCT_DeletedFieldConstructor(t *testing.T) {

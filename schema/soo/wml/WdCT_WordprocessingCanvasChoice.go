@@ -13,8 +13,8 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/qifengzhang007/gooxml"
-	"github.com/qifengzhang007/gooxml/schema/soo/dml/picture"
+	"github.com/schunlei/gooxml"
+	"github.com/schunlei/gooxml/schema/soo/dml/picture"
 )
 
 type WdCT_WordprocessingCanvasChoice struct {

@@ -9,7 +9,7 @@
 
 package schemaLibrary
 
-import "github.com/qifengzhang007/gooxml"
+import "github.com/schunlei/gooxml"
 
 // init registers constructor functions for dynamically creating elements based off the XML namespace and name
 func init() {

@@ -11,7 +11,7 @@ package math
 
 import (
 	"encoding/xml"
-	"github.com/qifengzhang007/gooxml"
+	"github.com/schunlei/gooxml"
 )
 
 type CT_RPR struct {

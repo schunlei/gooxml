@@ -5,9 +5,9 @@ import (
 	"log"
 	"math/rand"
 
-	"github.com/qifengzhang007/gooxml/color"
-	"github.com/qifengzhang007/gooxml/schema/soo/sml"
-	"github.com/qifengzhang007/gooxml/spreadsheet"
+	"github.com/schunlei/gooxml/color"
+	"github.com/schunlei/gooxml/schema/soo/sml"
+	"github.com/schunlei/gooxml/spreadsheet"
 )
 
 func main() {

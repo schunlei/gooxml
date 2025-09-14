@@ -4,10 +4,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/qifengzhang007/gooxml/color"
-	"github.com/qifengzhang007/gooxml/document"
-	"github.com/qifengzhang007/gooxml/measurement"
-	"github.com/qifengzhang007/gooxml/schema/soo/wml"
+	"github.com/schunlei/gooxml/color"
+	"github.com/schunlei/gooxml/document"
+	"github.com/schunlei/gooxml/measurement"
+	"github.com/schunlei/gooxml/schema/soo/wml"
 )
 
 func main() {

@@ -14,11 +14,11 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/qifengzhang007/gooxml"
-	"github.com/qifengzhang007/gooxml/schema/soo/ofc/sharedTypes"
-	"github.com/qifengzhang007/gooxml/schema/urn/schemas_microsoft_com/office/excel"
-	"github.com/qifengzhang007/gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
-	"github.com/qifengzhang007/gooxml/schema/urn/schemas_microsoft_com/office/word"
+	"github.com/schunlei/gooxml"
+	"github.com/schunlei/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/schunlei/gooxml/schema/urn/schemas_microsoft_com/office/excel"
+	"github.com/schunlei/gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
+	"github.com/schunlei/gooxml/schema/urn/schemas_microsoft_com/office/word"
 )
 
 type CT_PolyLine struct {
